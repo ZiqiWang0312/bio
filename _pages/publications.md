@@ -11,8 +11,7 @@ author_profile: true
   <li>
     <strong>Long-Term Water Quality Prediction With Transformer-Based Spatial-Temporal Graph Fusion</strong><br />
     <em>IEEE Transactions on Environmental Engineering, 2023</em><br />
-    <a href="/files/paper3.pdf" target="_blank">[PDF]</a> |
-    <a href="https://doi.org/10.1234/abc" target="_blank">[DOI]</a>
+    <a href="https://ZiqiWang0312.github.io/bio/files/paper3.pdf" target="_blank">[PDF]</a> |
   </li>
   <li>
     <strong>Another Journal Paper Title</strong><br />
