@@ -9,14 +9,29 @@ author_profile: true
 
 <ul>
   <li>
-    <strong>Long-Term Water Quality Prediction With Transformer-Based Spatial-Temporal Graph Fusion</strong><br />
-    <em>IEEE Transactions on Environmental Engineering, 2023</em><br />
-    <a href="https://ZiqiWang0312.github.io/bio/files/paper3.pdf" target="_blank">[PDF]</a> |
+    <strong>Online Workload Scheduling for Social Welfare Maximization in the Computing Continuum</strong><br/>
+    <em>IEEE Transactions on Services Computing (TSC), 2025</em>
+    <a href="https://ZiqiWang0312.github.io/bio/files/TSC.pdf" target="_blank">[PDF]</a>
   </li>
-  <li>
-    <strong>Another Journal Paper Title</strong><br />
-    <em>Journal of Awesome Research, 2022</em><br />
-    <a href="/assets/papers/journal2.pdf" target="_blank">[PDF]</a>
+    <strong>Long-Term Water Quality Prediction With Transformer-Based Spatial-Temporal Graph Fusion</strong><br/>
+    <em>IEEE Transactions on Automation Science and Engineering (TASE), 2025</em>
+    <a href="https://ZiqiWang0312.github.io/bio/files/TASE.pdf" target="_blank">[PDF]</a>
+  </li>
+    <strong>STMF: A Spatio-Temporal Multimodal Fusion Model for Long-term Water Quality Forecasting</strong><br/>
+    <em>IEEE Internet of Things Journal (IOTJ), 2025</em>
+    <a href="https://ZiqiWang0312.github.io/bio/files/IOTSTMF.pdf" target="_blank">[PDF]</a>
+  </li>
+    <strong>Ontology-Based Semantic Reasoning for Multisource Heterogeneous Industrial Devices Using OPC UA</strong><br/>
+    <em>IEEE Internet of Things Journal (IOTJ), 2025</em>
+    <a href="https://ZiqiWang0312.github.io/bio/files/IOTOPC.pdf" target="_blank">[PDF]</a>
+  </li>
+    <strong>Hybrid Water Quality Prediction With Multimodal Low-Rank Fusion and Localized Attention</strong><br/>
+    <em>IEEE Internet of Things Journal (IOTJ), 2025</em>
+    <a href="https://ZiqiWang0312.github.io/bio/files/IOTyibo.pdf" target="_blank">[PDF]</a>
+  </li>
+    <strong>Cost-Minimized Computation Offloading and User Association in Hybrid Cloud and Edge Computing</strong><br/>
+    <em>IEEE Internet of Things Journal (IOTJ), 2024</em>
+    <a href="https://ZiqiWang0312.github.io/bio/files/IOTLSAG.pdf" target="_blank">[PDF]</a>
   </li>
 </ul>
 
