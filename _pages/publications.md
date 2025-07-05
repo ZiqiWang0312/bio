@@ -9,14 +9,15 @@ author_profile: true
 
 <ul>
   <li>
-    <a href="/files/paper3.pdf" target="_blank">
-      Long-Term Water Quality Prediction With ransformer-Based Spatial-Temporal Graph Fusion
-    </a>
+    <strong>Long-Term Water Quality Prediction With Transformer-Based Spatial-Temporal Graph Fusion</strong><br />
+    <em>IEEE Transactions on Environmental Engineering, 2023</em><br />
+    <a href="/files/paper3.pdf" target="_blank">[PDF]</a> |
+    <a href="https://doi.org/10.1234/abc" target="_blank">[DOI]</a>
   </li>
   <li>
-    <a href="/assets/papers/journal2.pdf" target="_blank">
-      Title of Journal Paper 2
-    </a>
+    <strong>Another Journal Paper Title</strong><br />
+    <em>Journal of Awesome Research, 2022</em><br />
+    <a href="/assets/papers/journal2.pdf" target="_blank">[PDF]</a>
   </li>
 </ul>
 
