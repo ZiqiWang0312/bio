@@ -43,6 +43,27 @@ author_profile: true
     <em>IEEE Internet of Things Journal (IOTJ), 2024</em>
     <a href="https://ZiqiWang0312.github.io/bio/files/IOTLSAG.pdf" target="_blank">[PDF]</a>
   </li>
+
+
+  <li>
+    <strong>Large AI Models and Their Applications: Classification, Limitations, and Potential Solutions</strong><br/>
+    <em>Software: Practice and Experience (SPE), 2024</em>
+    <a href="https://ZiqiWang0312.github.io/bio/files/SPE.pdf" target="_blank">[PDF]</a>
+  </li>
+
+
+  <li>
+    <strong>Partial and cost-minimized computation offloading in hybrid edge and cloud systems</strong><br/>
+    <em>Expert Systems with Applications (ESWA), 2024</em>
+    <a href="https://ZiqiWang0312.github.io/bio/files/ESWA.pdf" target="_blank">[PDF]</a>
+  </li>
+
+  <li>
+    <strong>Self-adaptive teaching-learning-based optimizer with improved RBF and sparse autoencoder for high-dimensional problems</strong><br/>
+    <em>Information Sciences (INS), 2023</em>
+    <a href="https://ZiqiWang0312.github.io/bio/files/INS.pdf" target="_blank">[PDF]</a>
+  </li>
+
 </ul>
 
 ## Conferences
