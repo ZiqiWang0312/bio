@@ -5,7 +5,7 @@ permalink: /publications/
 author_profile: true
 ---
 
-## Journals
+## Journals (selected)
 
 <ul>
   <li>
@@ -66,7 +66,7 @@ author_profile: true
 
 </ul>
 
-## Conferences
+## Conferences (selected)
 
 <ul>
   <li>
