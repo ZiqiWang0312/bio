@@ -73,12 +73,14 @@ author_profile: true
     <strong>Multi-swarm genetic gray wolf optimizer with embedded autoencoders for high-dimensional expensive problems</strong><br/>
     <em>2023 IEEE International Conference on Robotics and Automation (ICRA 2023)</em>
     <a href="https://ZiqiWang0312.github.io/bio/files/ICRA1.pdf" target="_blank">[PDF]</a>
+    <a href="https://ZiqiWang0312.github.io/bio/files/ICRAslid.pdf" target="_blank">[Slide]</a>
   </li>
 
   <li>
     <strong>Self-adaptive teaching-learning-based optimizer with improved RBF and sparse autoencoder for complex optimization problems</strong><br/>
     <em>2023 IEEE International Conference on Robotics and Automation (ICRA 2023)</em>
     <a href="https://ZiqiWang0312.github.io/bio/files/ICRA2.pdf" target="_blank">[PDF]</a>
+    <a href="https://ZiqiWang0312.github.io/bio/files/ICRAslid1.pdf" target="_blank">[Slide]</a>
   </li>
 
   <li>
@@ -91,6 +93,7 @@ author_profile: true
     <strong>Cost-Minimized Partial Computation Offloading in Cloud-Assisted Mobile Edge Computing Systems</strong><br/>
     <em>2023 IEEE International Conference on Systems, Man, and Cybernetics (SMC 2023)</em>
     <a href="https://ZiqiWang0312.github.io/bio/files/SMC1.pdf" target="_blank">[PDF]</a>
+    <a href="https://ZiqiWang0312.github.io/bio/files/SMC23slid1.pdf" target="_blank">[Slide]</a>
   </li>
 
   <li>
