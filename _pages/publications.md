@@ -73,7 +73,7 @@ author_profile: true
     <strong>Multi-swarm genetic gray wolf optimizer with embedded autoencoders for high-dimensional expensive problems</strong><br/>
     <em>2023 IEEE International Conference on Robotics and Automation (ICRA 2023)</em>
     <a href="https://ZiqiWang0312.github.io/bio/files/ICRA1.pdf" target="_blank">[PDF]</a>
-    <a href="https://ZiqiWang0312.github.io/bio/files/ICRAslid.pdf" target="_blank">[Slide]</a>
+    <a href="https://ZiqiWang0312.github.io/bio/files/ICRApos1.pdf" target="_blank">[Poster]</a>
   </li>
 
   <li>
@@ -81,6 +81,7 @@ author_profile: true
     <em>2023 IEEE International Conference on Robotics and Automation (ICRA 2023)</em>
     <a href="https://ZiqiWang0312.github.io/bio/files/ICRA2.pdf" target="_blank">[PDF]</a>
     <a href="https://ZiqiWang0312.github.io/bio/files/ICRAslid1.pdf" target="_blank">[Slide]</a>
+    <a href="https://ZiqiWang0312.github.io/bio/files/ICRApos2.pdf" target="_blank">[Poster]</a>
   </li>
 
   <li>
