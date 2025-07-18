@@ -30,7 +30,6 @@ a:hover {
 }
 </style>
 
-<h1>Talks and Presentations</h1>
 
 <div class="talk">
   <div class="talk-title">AI for Health: Facial Muscle Signal Tracking</div>
