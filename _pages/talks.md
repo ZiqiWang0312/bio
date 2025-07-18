@@ -32,13 +32,13 @@ a:hover {
 
 
 <div class="talk">
-  <div class="talk-title">AI for Health: Facial Muscle Signal Tracking</div>
-  <div class="talk-meta">International AI Symposium, July 2025</div>
-  <a href="https://example.com/slide1.pdf" target="_blank">Slides</a>
+  <div class="talk-title">Self-adaptive teaching-learning-based optimizer with improved RBF and sparse autoencoder for complex optimization problems</div>
+  <div class="talk-meta">2023 IEEE International Conference on Robotics and Automation (ICRA 2023)</div>
+  <a href="https://ZiqiWang0312.github.io/bio/files/ICRAslid1.pdf" target="_blank">Slides</a>
 </div>
 
 <div class="talk">
-  <div class="talk-title">Industrial Internet and Cross-chain Data Governance</div>
-  <div class="talk-meta">China Industrial Intelligence Forum, May 2025</div>
-  <a href="https://example.com/slide2.pdf" target="_blank">Slides</a>
+  <div class="talk-title">Cost-Minimized Partial Computation Offloading in Cloud-Assisted Mobile Edge Computing Systems</div>
+  <div class="talk-meta">2023 IEEE International Conference on Systems, Man, and Cybernetics (SMC 2023)</div>
+  <a href="https://ZiqiWang0312.github.io/bio/files/SMC23slid1.pdf" target="_blank">Slides</a>
 </div>
