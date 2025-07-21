@@ -127,4 +127,47 @@ author_profile: true
     <a href="https://ZiqiWang0312.github.io/bio/files/codit.pdf" target="_blank">[PDF]</a>
   </li>
 
+
+  <li>
+    <strong>Multi-Indicator Water Quality Prediction Using Multimodal Bottleneck Fusion and ITransformer with Attention </strong><br/>
+    <em>2024 IEEE International Conference on Systems, Man, and Cybernetics (SMC 2024)</em>
+    <a href="https://ZiqiWang0312.github.io/bio/files/smc2024yibo.pdf" target="_blank">[PDF]</a>
+  </li>
+
+  <li>
+    <strong>Ontology Mapping-Based Semantic Reasoning with OPC UA for Heterogeneous Industrial Devices </strong><br/>
+    <em>2024 IEEE International Conference on Systems, Man, and Cybernetics (SMC 2024)</em>
+    <a href="https://ZiqiWang0312.github.io/bio/files/smc2024rina.pdf" target="_blank">[PDF]</a>
+  </li>
+
+  <li>
+    <strong>Water Quality Anomaly Detection with Dual Sliding Windows and Convolutional LSTM </strong><br/>
+    <em>2024 IEEE International Conference on Systems, Man, and Cybernetics (SMC 2024)</em>
+    <a href="https://ZiqiWang0312.github.io/bio/files/smc2024yuanming.pdf" target="_blank">[PDF]</a>
+  </li>
+
+  <li>
+    <strong>Spatial-Temporal Graph Fusion Transformer for Long-term Water Quality Prediction </strong><br/>
+    <em>2024 6th International Conference on Industrial Artificial Intelligence (IAI 2024)</em>
+    <a href="https://ZiqiWang0312.github.io/bio/files/IAI.pdf" target="_blank">[PDF]</a>
+  </li>
+
+  <li>
+    <strong>Self-Adaptive Dragonfly Optimizer with Random Forest and Kernel Principal Component Analysis for Complex Optimization Problems </strong><br/>
+    <em>2024 China Automation Congress (CAC 2024)</em>
+    <a href="https://ZiqiWang0312.github.io/bio/files/cac.pdf" target="_blank">[PDF]</a>
+  </li>
+
+  <li>
+    <strong>Long-term Water Quality Prediction based on Intelligent Optimization and Seasonal-trend Decomposition </strong><br/>
+    <em>2024 IEEE 20th International Conference on Automation Science and Engineering (CASE 2024)</em>
+    <a href="https://ZiqiWang0312.github.io/bio/files/case1.pdf" target="_blank">[PDF]</a>
+  </li>
+
+  <li>
+    <strong>WaterTS: Integrating Enhanced Transformer, Sliding Block, and Channel Independence for Long-term Water Quality Prediction </strong><br/>
+    <em>2024 IEEE 20th International Conference on Automation Science and Engineering (CASE 2024)</em>
+    <a href="https://ZiqiWang0312.github.io/bio/files/case2.pdf" target="_blank">[PDF]</a>
+  </li>
+
 </ul>
