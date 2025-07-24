@@ -8,7 +8,7 @@ redirect_from:
 ---
 
 
-I am currently pursuing the Ph.D. degree with the School of Software Technology, Zhejiang University, China. Before that, he received the B.S. degree in Internet of Things in 2022 and the M.S. degree in Software Engineering in 2025, both from Beijing University of Technology, China. His research interests include mobile edge computing, task scheduling, intelligent optimization algorithms, and deep learning. He received the Best Paper Award in 2024 ICAIS \& ISAS and the Best Application Paper Award in the 21st IEEE ICNSC.
+I am currently pursuing the Ph.D. degree with the School of Software Technology, Zhejiang University, China. Before that, I received the B.S. degree in Internet of Things in 2022 and the M.S. degree in Software Engineering in 2025, both from Beijing University of Technology, China. My research interests include mobile edge computing, task scheduling, intelligent optimization algorithms, and deep learning. I received the Best Paper Award in 2024 ICAIS & ISAS [certificate](https://ZiqiWang0312.github.io/bio/files/ISAScer.pdf) and the Best Application Paper Award in the 21st IEEE ICNSC [certificate](https://ZiqiWang0312.github.io/bio/files/ICNSCcer.pdf).
 
 Education
 ======
@@ -20,7 +20,21 @@ Research Interest
 ======
 Data-driven Time-series Prediction
 Mobile Edge Computing
+Motimudal Representation
 Deep Learning
+
+
+Honorary Awards
+======
+2024 Geneva Invention Exhibition Silver Award [certificate](https://ZiqiWang0312.github.io/bio/files/geneva.pdf)
+2023 National Scholarship [certificate](https://ZiqiWang0312.github.io/bio/files/National Scholarship 2023.pdf)
+2024 National Scholarship [certificate](https://ZiqiWang0312.github.io/bio/files/National Scholarship 2024.pdf)
+Xiaomi Special Award Scholarship [certificate](https://ZiqiWang0312.github.io/bio/files/XiaoMi.pdf)
+Outstanding Master's Thesis Award [certificate](https://ZiqiWang0312.github.io/bio/files/Outstanding Thesis.pdf)
+
+Skill Certificate
+======
+IELTS [certificate](https://ZiqiWang0312.github.io/bio/files/IELTS.pdf)
 
 For more info
 ------
