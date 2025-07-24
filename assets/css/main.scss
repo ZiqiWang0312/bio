@@ -40,3 +40,9 @@
     "vendor/font-awesome/solid",
     "vendor/font-awesome/brands"
 ;
+
+
+/* 去掉头像圆形效果，改为方形 */
+.author__avatar img {
+  border-radius: 0 !important;
+}
