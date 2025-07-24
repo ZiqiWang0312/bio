@@ -26,7 +26,7 @@ repository               : "ZiqiWang0312/bio"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profile.png"
+  avatar           : "ziqi.png"
   name             : "Ziqi Wang"
   pronouns         : # example: "she/her"  
   bio              : "PhD Student"
