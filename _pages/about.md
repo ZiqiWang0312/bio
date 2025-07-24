@@ -27,15 +27,21 @@ Deep Learning
 Honorary Awards
 ======
 2024 Geneva Invention Exhibition Silver Award
-<a href="https://ZiqiWang0312.github.io/bio/files/geneva.pdf" target="_blank">certificate</a> <br>
-2023 National Scholarship [certificate](https://ZiqiWang0312.github.io/bio/files/National Scholarship 2023.pdf)
-2024 National Scholarship [certificate](https://ZiqiWang0312.github.io/bio/files/National Scholarship 2024.pdf)
-Xiaomi Special Award Scholarship [certificate](https://ZiqiWang0312.github.io/bio/files/XiaoMi.pdf)
-Outstanding Master's Thesis Award [certificate](https://ZiqiWang0312.github.io/bio/files/Outstanding Thesis.pdf)
+<a href="https://ZiqiWang0312.github.io/bio/files/geneva.pdf" target="_blank">[certificate]</a> <br>
+2023 National Scholarship 
+<a href="https://ZiqiWang0312.github.io/bio/files/National Scholarship 2023.pdf" target="_blank">[certificate]</a> <br>
+2024 National Scholarship 
+<a href="https://ZiqiWang0312.github.io/bio/files/National Scholarship 2024.pdf" target="_blank">[certificate]</a> <br>
+Xiaomi Special Award Scholarship 
+<a href="https://ZiqiWang0312.github.io/bio/files/XiaoMi" target="_blank">[certificate]</a> <br>
+Outstanding Master's Thesis Award
+<a href="https://ZiqiWang0312.github.io/bio/files/Outstanding Thesis.pdf" target="_blank">[certificate]</a> <br>
 
 Skill Certificate
 ======
-IELTS [certificate](https://ZiqiWang0312.github.io/bio/files/IELTS.pdf)
+IELTS 
+<a href="https://ZiqiWang0312.github.io/bio/files/IELTS.pdf" target="_blank">[certificate]</a> <br>
+
 
 For more info
 ------
