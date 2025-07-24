@@ -33,7 +33,7 @@ Honorary Awards
 2024 National Scholarship 
 <a href="https://ZiqiWang0312.github.io/bio/files/National Scholarship 2024.pdf" target="_blank">[certificate]</a> <br>
 Xiaomi Special Award Scholarship 
-<a href="https://ZiqiWang0312.github.io/bio/files/XiaoMi" target="_blank">[certificate]</a> <br>
+<a href="https://ZiqiWang0312.github.io/bio/files/XiaoMi.pdf" target="_blank">[certificate]</a> <br>
 Outstanding Master's Thesis Award
 <a href="https://ZiqiWang0312.github.io/bio/files/Outstanding Thesis.pdf" target="_blank">[certificate]</a> <br>
 
