@@ -6,13 +6,7 @@ author_profile: true
 ---
 
 <style>
-.talk {
-  margin-bottom: 1.5rem;
-  padding: 1rem;
-  background-color: #fff;
-  border-left: 4px solid #4A90E2;
-  box-shadow: 0 2px 4px rgba(0,0,0,0.05);
-}
+
 .talk-title {
   font-weight: bold;
   font-size: 1.1rem;
