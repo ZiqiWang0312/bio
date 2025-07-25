@@ -19,7 +19,7 @@ author_profile: true
   font-size: 1.1rem;
 }
 .talk-meta {
-  color: #666;
+  color: #000; /* 白色背景时自动是黑色 */
   margin-top: 0.2rem;
 }
 /* 深色模式下的覆盖 */
