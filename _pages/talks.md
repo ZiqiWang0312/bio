@@ -22,6 +22,12 @@ author_profile: true
   color: #666;
   margin-top: 0.2rem;
 }
+/* 深色模式下的覆盖 */
+@media (prefers-color-scheme: dark) {
+  .talk-meta {
+    color: #fff !important; /* 深色主题改为白色 */
+  }
+}
 a {
   color: #4A90E2;
   text-decoration: none;
