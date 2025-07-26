@@ -18,10 +18,10 @@ Education
 
 Research Interest
 ======
-Data-driven Time-series Prediction
-Mobile Edge Computing
-Motimudal Representation
-Deep Learning
+Data-driven Time-series Prediction <br>
+Mobile Edge Computing <br>
+Motimudal Representation <br>
+Deep Learning <br>
 
 
 Honorary Awards
@@ -42,6 +42,15 @@ Skill Certificate
 IELTS 
 <a href="https://ZiqiWang0312.github.io/bio/files/IELTS.pdf" target="_blank">[certificate]</a> <br>
 
+
+
+Academic Service: Peer Review
+======
+IEEE Transactions on Systems, Man, and Cybernetics: Systems <br>
+IEEE Transactions on Industrial Informatics <br>
+IEEE Internet of Things Journal <br>
+IEEE Transactions on Communication <br>
+Journal Of Water Process Engineering <br>
 
 For more info
 ------
