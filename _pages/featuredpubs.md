@@ -40,6 +40,24 @@ author_profile: true
         <img src="https://ZiqiWang0312.github.io/bio/files/OnSocMax_framework.svg" alt="Framework Overview" width="600" style="margin:0;"/>
     </div>
   </p>
+</li>
 
 
+
+
+<li style="margin-bottom: 2rem; line-height: 1.8;">
+  <strong>Self-adaptive Teaching-learning-based Optimizer with Improved RBF and Sparse Autoencoder for Complex Optimization Problems</strong><br/>
+  <em>2023 IEEE International Conference on Robotics and Automation (ICRA), London, United Kingdom</em>
+  <a href="https://ZiqiWang0312.github.io/bio/files/ICRA2.pdf" target="_blank" style="margin-left:8px;">[PDF]</a>
+  
+  <div style="font-size:0.95em; margin-top:0.3rem;">
+    Citation: J. Bi, Z. Wang, H. Yuan, J. Qiao, J. Zhang and M. Zhou, "Self-adaptive Teaching-learning-based Optimizer with Improved RBF and Sparse Autoencoder for Complex Optimization Problems," 2023 IEEE International Conference on Robotics and Automation (ICRA), London, United Kingdom, 2023, pp. 7966-7972.
+  </div>
+
+  <p style="text-align: justify; font-weight: bold; margin-top: 0.8rem; margin-bottom: 1rem;"> 
+  Evolutionary algorithms are commonly used to solve many complex optimization problems in such fields as robotics, industrial automation, and complex system design. Yet, their performance is limited when dealing with high-dimensional complex problems because they often require enormous computational resources to yield desired solutions, and they may easily trap into local optima. To solve this problem, this work proposes a Self-adaptive Teaching-learning-based Optimizer with an improved Radial basis function model and a sparse Autoencoder (STORA). In STORA, a Self-adaptive Teaching-learning-based Optimizer is designed to dynamically adjust parameters for balancing exploration and exploitation during its solution process. Then, a sparse autoencoder (SAE) is adopted as a dimension reduction method to compress search space into lower-dimensional one for more efficiently guiding population to converge towards global optima. Besides, an Improved Radial Basis Function model (IRBF) is designed as a surrogate model to balance training time and prediction accuracy. It is adopted to save computational resources for improving overall performance. In addition, a dynamic population allocation strategy is adopted to well integrate SAE and IRBF in STORA. We evaluate it by comparing it with several state-of-the-art algorithms through six benchmark functions. We further test it by applying it to solve a real-world computational offloading problem.
+    <div style="text-align:center; margin-top: 0.5rem;">
+        <img src="https://ZiqiWang0312.github.io/bio/files/STORA_framework.svg" alt="Framework Overview" width="600" style="margin:0;"/>
+    </div>
+  </p>
 </li>
