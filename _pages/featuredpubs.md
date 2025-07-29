@@ -36,10 +36,10 @@ author_profile: true
     problems and is proven to be \( \alpha \)-competitive for some \( \alpha \) with a value of at least 2. 
     The evaluation results demonstrate that \( \texttt{OnSocMax} \) outperforms several benchmark strategies in 
     maximizing social welfare.
+    <div style="text-align:center; margin-top: 0.5rem;">
+        <img src="https://ZiqiWang0312.github.io/bio/files/OnSocMax_framework.svg" alt="Framework Overview" width="600" style="margin:0;"/>
+    </div>
   </p>
 
-  <div style="text-align:center; margin-top: 0.5rem;">
-    <img src="https://ZiqiWang0312.github.io/bio/files/OnSocMax_framework.svg" 
-         alt="Framework Overview" width="600"/>
-  </div>
+
 </li>
