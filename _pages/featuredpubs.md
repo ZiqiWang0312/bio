@@ -79,3 +79,23 @@ author_profile: true
     </div>
   </p>
 </li>
+
+
+
+
+<li style="margin-bottom: 2rem; line-height: 1.8;">
+  <strong>Cost-Minimized Computation Offloading and User Association in Hybrid Cloud and Edge Computing</strong><br/>
+  <em>IEEE Internet of Things Journal</em>
+  <a href="https://ZiqiWang0312.github.io/bio/files/IOTLSAG.pdf" target="_blank" style="margin-left:8px;">[PDF]</a>
+  
+  <div style="font-size:0.95em; margin-top:0.3rem;">
+    Citation: J. Bi, Z. Wang, H. Yuan, J. Zhang and M. Zhou, "Cost-Minimized Computation Offloading and User Association in Hybrid Cloud and Edge Computing," IEEE Internet of Things Journal, vol. 11, no. 9, pp. 16672-16683, May 2024.
+  </div>
+
+  <p style="text-align: justify; font-weight: bold; margin-top: 0.8rem; margin-bottom: 1rem;"> 
+  Smart mobile devices (SMDs) are integral for running advanced applications that demand significant computing resources and quick response time, e.g., immersive gaming and advanced image editing. However, SMDs often face constraints in computational capacity and battery duration, restricting their ability to process these tasks instantaneously. Cloud computing can circumvent these limitations by computation offloading, but cloud data centers (CDCs) are often deployed at long distances from users, which results in longer computational latency. To address the latency issue, the incorporation of small base stations (SBSs) in the vicinity of the user provides services with high bandwidth and low latency. The primary challenge lies in balancing the economics of the system consisting of different SMDs, SBSs, and a CDC, i.e., minimizing cost while still meeting the latency requirements of applications. In this work, a cost-minimized computation offloading framework is formulated and solved by a two-stage optimization algorithm named Lévy flight and simulated annealing-based grey wolf optimizer (LSAG). The optimal edge selection strategy is defined in the first stage for dealing with the case of several available SBSs. The second stage coordinates task scheduling and optimizes the allocation of resources among SMDs, SBSs, and CDC. LSAG integrates the extended search property of Lévy flight and the individual selection strategy of simulated annealing in the grey wolf optimizer, which reduces the risk of falling into local optima and finds the global optimum. Experimental results of executing real-life tasks show that LSAG outperforms its state-of-the-art peers in terms of cost and speed of convergence.
+    <div style="text-align:center; margin-top: 0.5rem;">
+        <img src="https://ZiqiWang0312.github.io/bio/files/LSAG_framework.svg" alt="Framework Overview" width="600" style="margin:0;"/>
+    </div>
+  </p>
+</li>
