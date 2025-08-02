@@ -36,6 +36,10 @@ Xiaomi Special Award Scholarship
 <a href="https://ZiqiWang0312.github.io/bio/files/XiaoMi.pdf" target="_blank">[certificate]</a> <br>
 Outstanding Master's Thesis Award
 <a href="https://ZiqiWang0312.github.io/bio/files/Outstanding Thesis.pdf" target="_blank">[certificate]</a> <br>
+Outstanding Graduates of Beijing
+<a href="https://ZiqiWang0312.github.io/bio/files/bj.pdf" target="_blank">[certificate]</a> <br>
+Top 100 Graduates of Beijing University of Technology
+<a href="https://ZiqiWang0312.github.io/bio/files/bjut.pdf" target="_blank">[certificate]</a> <br>
 
 Skill Certificate
 ======
