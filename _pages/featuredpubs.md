@@ -13,7 +13,7 @@ author_profile: true
   <div style="font-size:0.95em; margin-top:0.3rem;">
     Citation: H. Zhao Z. Wang, G. Cheng, W. Qian, P. Chen, J. Yin, S. Dustdar, and S. Deng, 
     "Online Workload Scheduling for Social Welfare Maximization in the Computing Continuum," 
-    IEEE Transactions on Services Computing, doi: 10.1109/TSC.2025.3570845.
+    IEEE Transactions on Services Computing, vol. 18, no. 4, pp. 2267-2280, Jul. 2025, doi: 10.1109/TSC.2025.3570845.
   </div>
 
   <p style="text-align: justify; font-weight: bold; margin-top: 0.8rem; margin-bottom: 1rem;"> 
