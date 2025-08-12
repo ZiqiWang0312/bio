@@ -15,7 +15,10 @@ main:
     url: /feapub/ 
 
   - title: "Talks"
-    url: /talks/    
+    url: /talks/  
+
+  - title: "Project"
+    url: /projects/   
 
   #- title: "Teaching"
   #  url: /teaching/    
