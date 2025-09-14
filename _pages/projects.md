@@ -6,7 +6,7 @@ author_profile: true
 ---
 
 <li style="margin-bottom: 2rem; line-height: 1.8;">
-  <strong>Industrial Multi-Agent Systems </strong><br/>
+  <strong>Industrial Multi-Agent Systems </strong>
   <a href="https://ZiqiWang0312.github.io/bio/files/industry.pdf" target="_blank" style="margin-left:8px;">[PDF]</a>
   
   <div style="font-size:0.95em; margin-top:0.3rem;">
@@ -17,7 +17,7 @@ author_profile: true
 
 
 <li style="margin-bottom: 2rem; line-height: 1.8;">
-  <strong> Auto PLC code by LLM </strong><br/>
+  <strong> Auto PLC code by LLM </strong>
   <a href="https://ZiqiWang0312.github.io/bio/files/TSC.pdf" target="_blank" style="margin-left:8px;">[PDF]</a>
   
   <div style="font-size:0.95em; margin-top:0.3rem;">
