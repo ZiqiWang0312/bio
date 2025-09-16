@@ -21,5 +21,5 @@ author_profile: true
   <a href="https://ZiqiWang0312.github.io/bio/files/TSC.pdf" target="_blank" style="margin-left:8px;">[PDF]</a>
   
   <div style="font-size:0.95em; margin-top:0.3rem;">
-    XXX
+    Generate code for PLCs using Large Language Models.
   </div>
