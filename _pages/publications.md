@@ -170,4 +170,10 @@ author_profile: true
     <a href="https://ZiqiWang0312.github.io/bio/files/case2.pdf" target="_blank">[PDF]</a>
   </li>
 
+  <li>
+    <strong>Challenges and Strategies in the Development of Large Models </strong><br/>
+    <em>2025 IEEE 5th International Conference on Human-Machine Systems (ICHMS)</em>
+    <a href="https://ZiqiWang0312.github.io/bio/files/ICHMS.pdf" target="_blank">[PDF]</a>
+  </li>
+
 </ul>
