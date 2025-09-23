@@ -59,6 +59,12 @@ author_profile: true
   </li>
 
   <li>
+    <strong>Hybrid Water Quality Prediction based on Attention combined with Frequency Enhancement and Multi-Seasonal Decomposition</strong><br/>
+    <em>Journal of Water Process Engineering (JWPE), 2025</em>
+    <a href="https://ZiqiWang0312.github.io/bio/files/JWPE.pdf" target="_blank">[PDF]</a>
+  </li>
+
+  <li>
     <strong>Self-adaptive teaching-learning-based optimizer with improved RBF and sparse autoencoder for high-dimensional problems</strong><br/>
     <em>Information Sciences (INS), 2023</em>
     <a href="https://ZiqiWang0312.github.io/bio/files/INS.pdf" target="_blank">[PDF]</a>
