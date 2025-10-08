@@ -27,8 +27,8 @@ author_profile: true
 
 <li style="margin-bottom: 2rem; line-height: 1.8;">
   <strong> Auto PLC code by LLM </strong>
-  <a href="https://ZiqiWang0312.github.io/bio/files/TSC.pdf" target="_blank" style="margin-left:8px;">[PDF]</a>
+  <a href="https://ZiqiWang0312.github.io/bio/files/PLC.pdf" target="_blank" style="margin-left:8px;">[PDF]</a>
   
   <div style="font-size:0.95em; margin-top:0.3rem;">
-    Generate code for PLCs using Large Language Models.
+    This project aims to generate code for PLCs using Multi-Agent system.
   </div>
