@@ -30,7 +30,6 @@
 </div>
 
 
-<!-- Visitors counter -->
 <p class="text-center text-muted small mt-3">
   👁️ Site visits: <span id="site_visits">Loading...</span>
   &nbsp;&nbsp;|&nbsp;&nbsp;
@@ -39,30 +38,30 @@
 
 <script>
 (function () {
-  function show(id, val){
+  function show(id, val) {
     var el = document.getElementById(id);
-    if (el) el.textContent = Number(val || 0).toLocaleString();
+    if (el) { el.textContent = Number(val || 0).toLocaleString(); }
   }
 
-  // 以域名做命名空间（你的就是 ziqiwang0312.github.io）
-  var ns  = encodeURIComponent(window.location.hostname);
-  // 将当前路径转成安全 key（/bio/index.html -> page__bio_index_html）
-  var pageKey = 'page_' + encodeURIComponent(location.pathname.replace(/[^a-zA-Z0-9_-]/g,'_'));
+  var ns  = encodeURIComponent(window.location.hostname); // 例如 ziqiwang0312.github.io
   var siteKey = 'site_total';
+  var pageKey = 'page_' + encodeURIComponent(location.pathname.replace(/[^a-zA-Z0-9_-]/g,'_'));
 
   var API = 'https://api.countapi.xyz';
-  var noCache = { cache: 'no-store' };
+  var opts = { cache: 'no-store' };
 
-  // 先尝试 +1，若被拦截或失败则降级为只读 get
-  function bumpAndGet(key, targetId){
-    return fetch(`${API}/update/${ns}/${key}/?amount=1`, noCache)
-      .then(function (r){ if(!r.ok) throw new Error(r.status); return r.json(); })
-      .then(function (d){ show(targetId, d.value); })
-      .catch(function (){
-        fetch(`${API}/get/${ns}/${key}`, noCache)
-          .then(function (r){ return r.json(); })
-          .then(function (d){ show(targetId, d.value); })
-          .catch(function (){ show(targetId, 'N/A'); });
+  function bumpAndGet(key, targetId) {
+    fetch(API + '/update/' + ns + '/' + key + '/?amount=1', opts)
+      .then(function (r) {
+        if (!r.ok) { throw new Error(r.status); }
+        return r.json();
+      })
+      .then(function (d) { show(targetId, d.value); })
+      .catch(function () {
+        fetch(API + '/get/' + ns + '/' + key, opts)
+          .then(function (r) { return r.json(); })
+          .then(function (d) { show(targetId, d.value); })
+          .catch(function () { show(targetId, 'N/A'); });
       });
   }
 
