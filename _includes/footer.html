@@ -30,3 +30,33 @@
 </div>
 
 
+<p class="text-center text-muted small mt-3">
+  👁️ Total visits: <span id="site_visits">Loading...</span>
+</p>
+
+<script>
+(function () {
+  var el = document.getElementById('site_visits');
+  if (!el) return;
+
+  var ns = encodeURIComponent(window.location.hostname); // 例如 ziqiwang0312.github.io
+  var key = 'site_total'; // 固定总访问量键名
+  var API = 'https://api.countapi.xyz';
+  var opts = { cache: 'no-store' };
+
+  fetch(API + '/update/' + ns + '/' + key + '/?amount=1', opts)
+    .then(function (r) {
+      if (!r.ok) throw new Error(r.status);
+      return r.json();
+    })
+    .then(function (d) {
+      el.textContent = d.value.toString();
+    })
+    .catch(function () {
+      fetch(API + '/get/' + ns + '/' + key, opts)
+        .then(function (r) { return r.json(); })
+        .then(function (d) { el.textContent = d.value.toString(); })
+        .catch(function () { el.textContent = 'N/A'; });
+    });
+})();
+</script>
