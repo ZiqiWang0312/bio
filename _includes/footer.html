@@ -30,19 +30,39 @@
 </div>
 
 
-<div style="text-align:center; font-size:0.9em; color:#777; margin-top:10px;">
-  👁️ Visitors: <span id="visitor_count">Loading...</span>
-</div>
+<!-- Visitors counter -->
+<p class="text-center text-muted small mt-3">
+  👁️ Site visits: <span id="site_visits">Loading...</span>
+  &nbsp;&nbsp;|&nbsp;&nbsp;
+  📄 This page: <span id="page_visits">Loading...</span>
+</p>
 
 <script>
-  // 使用 CountAPI 记录访问次数
-  const counterUrl = "https://api.countapi.xyz/hit/ziqiwang0312.github.io/visits"; 
-  fetch(counterUrl)
-    .then(res => res.json())
-    .then(data => {
-      document.getElementById("visitor_count").innerText = data.value.toLocaleString();
-    })
-    .catch(() => {
-      document.getElementById("visitor_count").innerText = "N/A";
-    });
+(function () {
+  function show(id, val){ var el=document.getElementById(id); if(el) el.textContent = Number(val||0).toLocaleString(); }
+
+  // 命名空间=域名（自动识别你的 ziqiwang0312.github.io 或自定义域）
+  var ns  = encodeURIComponent(window.location.hostname);
+  // 当前路径做 key（去掉特殊字符，保证可用）
+  var pageKey = 'page_' + encodeURIComponent(location.pathname.replace(/[^a-zA-Z0-9_-]/g,'_'));
+  var siteKey = 'site_total';
+
+  var API = 'https://api.countapi.xyz';
+  var noCache = { cache: 'no-store' };
+
+  // 通用：先尝试 update (+1)，失败则降级为 get（有些浏览器或插件会拦截 update）
+  function bumpAndGet(key, targetId){
+    return fetch(`${API}/update/${ns}/${key}/?amount=1`, noCache)
+      .then(r => { if(!r.ok) throw new Error(r.status); return r.json(); })
+      .then(d => show(targetId, d.value))
+      .catch(() => fetch(`${API}/get/${ns}/${key}`, noCache)
+        .then(r => r.json())
+        .then(d => show(targetId, d.value))
+        .catch(() => show(targetId, 'N/A')));
+  }
+
+  bumpAndGet(siteKey, 'site_visits');
+  bumpAndGet(pageKey, 'page_visits');
+})();
 </script>
+
