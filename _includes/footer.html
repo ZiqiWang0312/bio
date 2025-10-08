@@ -39,30 +39,34 @@
 
 <script>
 (function () {
-  function show(id, val){ var el=document.getElementById(id); if(el) el.textContent = Number(val||0).toLocaleString(); }
+  function show(id, val){
+    var el = document.getElementById(id);
+    if (el) el.textContent = Number(val || 0).toLocaleString();
+  }
 
-  // 命名空间=域名（自动识别你的 ziqiwang0312.github.io 或自定义域）
+  // 以域名做命名空间（你的就是 ziqiwang0312.github.io）
   var ns  = encodeURIComponent(window.location.hostname);
-  // 当前路径做 key（去掉特殊字符，保证可用）
+  // 将当前路径转成安全 key（/bio/index.html -> page__bio_index_html）
   var pageKey = 'page_' + encodeURIComponent(location.pathname.replace(/[^a-zA-Z0-9_-]/g,'_'));
   var siteKey = 'site_total';
 
   var API = 'https://api.countapi.xyz';
   var noCache = { cache: 'no-store' };
 
-  // 通用：先尝试 update (+1)，失败则降级为 get（有些浏览器或插件会拦截 update）
+  // 先尝试 +1，若被拦截或失败则降级为只读 get
   function bumpAndGet(key, targetId){
     return fetch(`${API}/update/${ns}/${key}/?amount=1`, noCache)
-      .then(r => { if(!r.ok) throw new Error(r.status); return r.json(); })
-      .then(d => show(targetId, d.value))
-      .catch(() => fetch(`${API}/get/${ns}/${key}`, noCache)
-        .then(r => r.json())
-        .then(d => show(targetId, d.value))
-        .catch(() => show(targetId, 'N/A')));
+      .then(function (r){ if(!r.ok) throw new Error(r.status); return r.json(); })
+      .then(function (d){ show(targetId, d.value); })
+      .catch(function (){
+        fetch(`${API}/get/${ns}/${key}`, noCache)
+          .then(function (r){ return r.json(); })
+          .then(function (d){ show(targetId, d.value); })
+          .catch(function (){ show(targetId, 'N/A'); });
+      });
   }
 
   bumpAndGet(siteKey, 'site_visits');
   bumpAndGet(pageKey, 'page_visits');
 })();
 </script>
-
