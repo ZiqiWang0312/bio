@@ -18,19 +18,4 @@
 
 <!-- end custom footer snippets -->
 
-<div style="text-align:center; font-size:0.9em; color:#777; margin-top:10px;">
-  👁️ Visitors: <span id="visitor_count">Loading...</span>
-</div>
 
-<script>
-  // 使用 CountAPI 记录访问次数
-  const counterUrl = "https://api.countapi.xyz/hit/ziqiwang0312.github.io/visits"; 
-  fetch(counterUrl)
-    .then(res => res.json())
-    .then(data => {
-      document.getElementById("visitor_count").innerText = data.value.toLocaleString();
-    })
-    .catch(() => {
-      document.getElementById("visitor_count").innerText = "N/A";
-    });
-</script>
