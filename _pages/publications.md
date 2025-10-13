@@ -70,6 +70,12 @@ author_profile: true
     <a href="https://ZiqiWang0312.github.io/bio/files/INS.pdf" target="_blank">[PDF]</a>
   </li>
 
+  <li>
+    <strong>An Enhanced Hybrid Deep Neural Network Method for Adjusted Industrial Time Series Prediction with Variable Operating States</strong><br/>
+    <em>Expert Systems with Applications (ESWA), 2025</em>
+    <a href="https://ZiqiWang0312.github.io/bio/files/ESWA2.pdf" target="_blank">[PDF]</a>
+  </li>
+
 </ul>
 
 ## Conferences (selected)
