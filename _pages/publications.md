@@ -128,6 +128,12 @@ author_profile: true
   </li>
 
   <li>
+    <strong>Long-term Water Quality Prediction Based on Multimodal Fusion and Temporal 2D-variation </strong><br/>
+    <em>2024 International Conference on Networking, Sensing and Control (ICNSC 2024)</em>
+    <a href="https://ZiqiWang0312.github.io/bio/files/ICNSCxiangxi.pdf" target="_blank">[PDF]</a>
+  </li>
+
+  <li>
     <strong>Energy-minimized Partial Computation Offloading in Cloud-assisted Vehicular Edge Computing Systems </strong><br/>
     <em>2023 International Conference on Networking, Sensing and Control (ICNSC 2023)</em>
     <a href="https://ZiqiWang0312.github.io/bio/files/ICNSC2.pdf" target="_blank">[PDF]</a>
