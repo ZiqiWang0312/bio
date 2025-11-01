@@ -27,8 +27,8 @@ author_profile: true
 
 <li style="margin-bottom: 2rem; line-height: 1.8;">
   <strong> Auto PLC code by LLM </strong>
-  <a href="https://ZiqiWang0312.github.io/bio/files/PLC.pdf" target="_blank" style="margin-left:8px;">[PDF]</a>[paper](https://arxiv.org/abs/2509.24380)
-  
+  <a href="https://ZiqiWang0312.github.io/bio/files/PLC.pdf" target="_blank" style="margin-left:8px;">[PDF]</a>   
+  <a href="https://arxiv.org/abs/2509.24380" target="_blank" style="margin-left:8px;">[paper]</a>
   <div style="font-size:0.95em; margin-top:0.3rem;">
     This project aims to generate code for PLCs using Multi-Agent system.
   </div>
