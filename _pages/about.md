@@ -42,6 +42,9 @@ Top 100 Graduates of Beijing University of Technology
 <a href="https://ZiqiWang0312.github.io/bio/files/bjut.pdf" target="_blank">[certificate]</a> <br>
 2025 China Service Computing Innovation Competition, Second Prize
 <a href="https://ZiqiWang0312.github.io/bio/files/bjut.pdf" target="_blank">[certificate]</a> <br>
+2025 Data Element Empowering New Industrialization Competition, Second Prize
+<a href="https://ZiqiWang0312.github.io/bio/files/bjut.pdf" target="_blank">[certificate]</a> <br>
+
 
 Skill Certificate
 ======
