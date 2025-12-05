@@ -78,7 +78,7 @@ author_profile: true
 
   <li>
     <strong> Multi-Perspective and Energy-Efficient Deep Learning in Edge Computing </strong><br/>
-    <em>IEEE Internet of Things Journal, 2025</em>
+    <em>IEEE Internet of Things Journal (IOT), 2025</em>
     <a href="https://ZiqiWang0312.github.io/bio/files/IOT-survey.pdf" target="_blank">[PDF]</a>
   </li>
 
