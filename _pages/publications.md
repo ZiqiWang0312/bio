@@ -76,6 +76,12 @@ author_profile: true
     <a href="https://ZiqiWang0312.github.io/bio/files/ESWA2.pdf" target="_blank">[PDF]</a>
   </li>
 
+  <li>
+    <strong> Multi-Perspective and Energy-Efficient Deep Learning in Edge Computing </strong><br/>
+    <em>IEEE Internet of Things Journal, 2025</em>
+    <a href="https://ZiqiWang0312.github.io/bio/files/IOT-survey.pdf" target="_blank">[PDF]</a>
+  </li>
+
 </ul>
 
 ## Conferences (selected)
