@@ -82,6 +82,12 @@ author_profile: true
     <a href="https://ZiqiWang0312.github.io/bio/files/IOT-survey.pdf" target="_blank">[PDF]</a>
   </li>
 
+  <li>
+    <strong> Assistive Assessment of Neurological Dysfunction via Eye Movement Patterns and Ocular Biometrics </strong><br/>
+    <em>Artificial Intelligence Surgery (AIS), 2025</em>
+    <a href="https://ZiqiWang0312.github.io/bio/files/AIS.pdf" target="_blank">[PDF]</a>
+  </li>
+
 </ul>
 
 ## Conferences (selected)
