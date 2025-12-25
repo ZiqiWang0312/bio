@@ -53,8 +53,10 @@ IELTS
 
 
 
-Academic Service: Peer Review
+Academic Service
 ======
+
+### Peer Review
 IEEE Transactions on Systems, Man, and Cybernetics: Systems <br>
 IEEE Transactions on Industrial Informatics <br>
 IEEE Internet of Things Journal <br>
@@ -62,6 +64,11 @@ IEEE Transactions on Communication <br>
 Journal Of Water Process Engineering <br>
 International Conference on Service-Oriented Computing <br>
 IEEE International Conference on Systems, Man, and Cybernetics <br>
+
+### Others
+IEEE Systems, Man, and Cybernetics Society (SMC) Student Branch Chapter at Zhejiang University (Chair)
+
+
 
 For more info
 ------
