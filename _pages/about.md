@@ -66,7 +66,7 @@ International Conference on Service-Oriented Computing <br>
 IEEE International Conference on Systems, Man, and Cybernetics <br>
 
 ### Others
-IEEE Systems, Man, and Cybernetics Society (SMC) Student Branch Chapter at Zhejiang University (Chair)
+IEEE Systems, Man, and Cybernetics Society (SMC) Student Branch Chapter at Zhejiang University (Chair) <a href="https://ZiqiWang0312.github.io/bio/files/Zhejiang University,SMC28.pdf" target="_blank">[PDF]</a> <br>
 
 
 
