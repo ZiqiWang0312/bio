@@ -11,14 +11,14 @@ main:
   - title: "Publications"
     url: /publications/
 
-  - title: "Featured Pulications"
-    url: /feapub/ 
+  #- title: "Featured Pulications"
+  #  url: /feapub/
 
   - title: "Talks"
     url: /talks/  
 
-  - title: "Projects"
-    url: /projects/   
+  #- title: "Projects"
+  #  url: /projects/
 
   #- title: "Teaching"
   #  url: /teaching/    
