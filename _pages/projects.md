@@ -25,6 +25,15 @@ author_profile: true
   </div>
 
 
+<li style="margin-bottom: 2rem; line-height: 1.8;">
+  <strong> A Predictive Maintenance System for Industrial Equipment </strong>
+  <a href="https://ZiqiWang0312.github.io/bio/files/prediction.pdf" target="_blank" style="margin-left:8px;">[PDF]</a>
+  
+  <div style="font-size:0.95em; margin-top:0.3rem;">
+    This project presents a predictive maintenance framework. The system constructs an intelligent health monitoring and predictive maintenance platform tailored for key equipment such as wind turbines, integrating multi-source operational data, condition features, and temporal trend modeling to achieve continuous perception of equipment health status, degradation trend prediction, and anomaly risk early warning. By providing real-time and interpretable equipment health visualization, the system significantly reduces unplanned downtime risks, lowering non-scheduled stoppage rates by 5–10%, extending the average service life of critical components by approximately 5%, and enhancing production line continuity and energy utilization efficiency. The practical application results demonstrate that this integrated approach effectively improves intelligent scheduling and market responsiveness in industrial operations, establishing a replicable and scalable model for industrial digitalization and smart maintenance.
+  </div>
+
+
 
 <li style="margin-bottom: 2rem; line-height: 1.8;">
   <strong> Auto PLC code by LLM </strong>
