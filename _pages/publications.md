@@ -206,4 +206,45 @@ author_profile: true
     <a href="https://ZiqiWang0312.github.io/bio/files/ICHMS.pdf" target="_blank">[PDF]</a>
   </li>
 
+  <li>
+    <strong>Dual-GNN-Assisted Cooperative Hunting Optimizer for Dynamic Job Shop Scheduling </strong><br/>
+    <em>2025 IEEE International Conference on Systems, Man, and Cybernetics (SMC 2025)</em>
+    <a href="https://ZiqiWang0312.github.io/bio/files/SMC251.pdf" target="_blank">[PDF]</a>
+  </li>
+
+  <li>
+    <strong>Latency-minimized Computation Offloading in 3C Manufacturing Workshops </strong><br/>
+    <em>2025 IEEE International Conference on Systems, Man, and Cybernetics (SMC 2025)</em>
+    <a href="https://ZiqiWang0312.github.io/bio/files/SMC252.pdf" target="_blank">[PDF]</a>
+  </li>
+
+  <li>
+    <strong>MAR-Net: Multi-scale Attention Refinement Network for Enhanced Medical Image Segmentation </strong><br/>
+    <em>2025 IEEE International Conference on Systems, Man, and Cybernetics (SMC 2025)</em>
+    <a href="https://ZiqiWang0312.github.io/bio/files/SMC253.pdf" target="_blank">[PDF]</a>
+  </li>
+
+  <li>
+    <strong>Ontology-Based Semantic Integration of Multi-Source Heterogeneous Industrial Devices </strong><br/>
+    <em>2025 IEEE International Conference on Systems, Man, and Cybernetics (SMC 2025)</em>
+    <a href="https://ZiqiWang0312.github.io/bio/files/SMC254.pdf" target="_blank">[PDF]</a>
+  </li>
+
+  <li>
+    <strong>Privacy-Preserving Estimated Time of Arrival Prediction with Lightweight Multi-Task Federated Learning </strong><br/>
+    <em>2025 IEEE International Conference on Systems, Man, and Cybernetics (SMC 2025)</em>
+    <a href="https://ZiqiWang0312.github.io/bio/files/SMC255.pdf" target="_blank">[PDF]</a>
+  </li>
+
+  <li>
+    <strong>Shapelet Temporal Evolution Graph Network for Water Quality Anomaly Detection </strong><br/>
+    <em>2025 IEEE International Conference on Systems, Man, and Cybernetics (SMC 2025)</em>
+    <a href="https://ZiqiWang0312.github.io/bio/files/SMC256.pdf" target="_blank">[PDF]</a>
+  </li>
+
+  <li>
+    <strong>Ocular Feature Extraction for Eye Movement Analysis and Neurological Dysfunction Diagnosis </strong><br/>
+    <em>2025 IEEE International Conference on Systems, Man, and Cybernetics (SMC 2025)</em>
+    <a href="https://ZiqiWang0312.github.io/bio/files/SMC257.pdf" target="_blank">[PDF]</a>
+  </li>
 </ul>
