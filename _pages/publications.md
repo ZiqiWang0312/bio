@@ -8,6 +8,13 @@ author_profile: true
 ## Journals (selected)
 
 <ul>
+  
+  <li>
+    <strong>Dual-GNN-driven Cooperative Optimization for Makespan-minimized and Large-scale 3C Dynamic Job-shop Scheduling</strong><br/>
+    <em>IEEE Transactions on Automation Science and Engineering (TASE), 2026</em>
+    <a href="https://ZiqiWang0312.github.io/bio/files/jobshop.pdf" target="_blank">[PDF]</a>
+  </li>
+
   <li>
     <strong>Online Workload Scheduling for Social Welfare Maximization in the Computing Continuum</strong><br/>
     <em>IEEE Transactions on Services Computing (TSC), 2025</em>
