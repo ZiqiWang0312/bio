@@ -62,6 +62,7 @@ IEEE Transactions on Industrial Informatics <br>
 IEEE Internet of Things Journal <br>
 IEEE Transactions on Communication <br>
 Journal Of Water Process Engineering <br>
+Engineering Applications of Artificial Intelligence <br>
 International Conference on Service-Oriented Computing <br>
 IEEE International Conference on Systems, Man, and Cybernetics <br>
 Measurement <br>
