@@ -253,5 +253,11 @@ author_profile: true
     <strong>Ocular Feature Extraction for Eye Movement Analysis and Neurological Dysfunction Diagnosis </strong><br/>
     <em>2025 IEEE International Conference on Systems, Man, and Cybernetics (SMC 2025)</em>
     <a href="https://ZiqiWang0312.github.io/bio/files/SMC257.pdf" target="_blank">[PDF]</a>
+
+  </li>
+    <li>
+    <strong>A Water Quality Prediction Model Based on Low-Rank Multimodal Fusion Patch Transformer </strong><br/>
+    <em>2025 International Conference on Networking, Sensing and Control (ICNSC 2025)</em>
+    <a href="https://ZiqiWang0312.github.io/bio/files/ICNSC2025.pdf" target="_blank">[PDF]</a>
   </li>
 </ul>
