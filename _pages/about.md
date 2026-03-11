@@ -12,9 +12,9 @@ I am currently pursuing the Ph.D. degree with the School of Software Technology,
 
 Education
 ======
-* 2025.9 -, Zhejiang University, China, PhD
-* 2022.9 - 2025.6, Beijing University of Technology, China, M.S.
-* 2018.9 - 2022.6, Beijing University of Technology, China, B.S. 
+* 2025.9 -, Zhejiang University, China, Electronic and Information Engineering, PhD
+* 2022.9 - 2025.6, Beijing University of Technology, China, Software Engineering, M.S.
+* 2018.9 - 2022.6, Beijing University of Technology, China, Internet Of Things, B.S. 
 
 Research Interest
 ======
