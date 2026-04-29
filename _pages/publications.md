@@ -101,6 +101,12 @@ author_profile: true
 
 <ul>
   <li>
+    <strong>Graph2Eval: Automatic Multimodal Task Generation for Agents via Knowledge Graphs</strong><br/>
+    <em>The IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR 2026)</em>
+    <a href="https://ZiqiWang0312.github.io/bio/files/CVPR.pdf" target="_blank">[PDF]</a>
+  </li>
+
+  <li>
     <strong>Multi-swarm genetic gray wolf optimizer with embedded autoencoders for high-dimensional expensive problems</strong><br/>
     <em>2023 IEEE International Conference on Robotics and Automation (ICRA 2023)</em>
     <a href="https://ZiqiWang0312.github.io/bio/files/ICRA1.pdf" target="_blank">[PDF]</a>
@@ -259,5 +265,12 @@ author_profile: true
     <strong>A Water Quality Prediction Model Based on Low-Rank Multimodal Fusion Patch Transformer </strong><br/>
     <em>2025 International Conference on Networking, Sensing and Control (ICNSC 2025)</em>
     <a href="https://ZiqiWang0312.github.io/bio/files/ICNSC2025.pdf" target="_blank">[PDF]</a>
+  </li>
+
+  </li>
+    <li>
+    <strong>Energy-Minimized Task Offloading in Smart Traffic Signal Edge-Cloud Systems </strong><br/>
+    <em>2025 China Automation Congress (CAC 2025)</em>
+    <a href="https://ZiqiWang0312.github.io/bio/files/CAC2025.pdf" target="_blank">[PDF]</a>
   </li>
 </ul>
