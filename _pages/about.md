@@ -68,6 +68,7 @@ IEEE International Conference on Systems, Man, and Cybernetics <br>
 Measurement <br>
 Neural Networks <br>
 Journal of Environmental Management <br>
+IEEE Transactions on Intelligent Transportation Systems <br>
 
 ### Others
 IEEE Systems, Man, and Cybernetics Society (SMC) Student Branch Chapter at Zhejiang University (Chair) <a href="https://ZiqiWang0312.github.io/bio/files/Zhejiang University,SMC28.pdf" target="_blank">[PDF]</a> <br>
