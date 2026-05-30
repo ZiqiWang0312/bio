@@ -62,12 +62,12 @@ IEEE Transactions on Industrial Informatics <br>
 IEEE Internet of Things Journal <br>
 IEEE Transactions on Communication <br>
 Journal Of Water Process Engineering <br>
-Engineering Applications of Artificial Intelligence <br>
+Engineering Applications of Artificial Intelligence <a href="https://ZiqiWang0312.github.io/bio/files/Certificate_EAAI_Recognised.pdf" target="_blank">[certificate]</a> <br>
 International Conference on Service-Oriented Computing <br>
 IEEE International Conference on Systems, Man, and Cybernetics <br>
-Measurement <br>
-Neural Networks <br>
-Journal of Environmental Management <br>
+Measurement <a href="https://ZiqiWang0312.github.io/bio/files/Certificate_MEASUR_Recognised.pdf" target="_blank">[certificate]</a> <br>
+Neural Networks <a href="https://ZiqiWang0312.github.io/bio/files/Certificate_NN_Recognised.pdf" target="_blank">[certificate]</a> <br>
+Journal of Environmental Management  <a href="https://ZiqiWang0312.github.io/bio/files/Certificate_YJEMA_Recognised.pdf" target="_blank">[certificate]</a> <br>
 IEEE Transactions on Intelligent Transportation Systems <br>
 
 ### Others
