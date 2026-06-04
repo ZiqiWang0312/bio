@@ -95,6 +95,12 @@ author_profile: true
     <a href="https://ZiqiWang0312.github.io/bio/files/AIS.pdf" target="_blank">[PDF]</a>
   </li>
 
+   <li>
+    <strong> FedCAD: Federated Learning with Clustering, Adaptive Selection, and Delayed Aggregation for Heterogeneous IoT Environments </strong><br/>
+    <em>IEEE Internet of Things Journal (IOTJ), 2026</em>
+    <a href="https://ZiqiWang0312.github.io/bio/files/IOT-FEDCAD.pdf" target="_blank">[PDF]</a>
+  </li>
+
 </ul>
 
 ## Conferences (selected)
