@@ -70,7 +70,7 @@ Neural Networks <a href="https://ZiqiWang0312.github.io/bio/files/Certificate_NN
 Journal of Environmental Management  <a href="https://ZiqiWang0312.github.io/bio/files/Certificate_YJEMA_Recognised.pdf" target="_blank">[certificate]</a> <br>
 IEEE Transactions on Intelligent Transportation Systems <br>
 Expert Systems with Applications <a href="https://ZiqiWang0312.github.io/bio/files/Certificate_ESWA_Recognised.pdf" target="_blank">[certificate]</a> <br>
-Future Generation Computer Systems <br>
+Future Generation Computer Systems <a href="https://ZiqiWang0312.github.io/bio/files/Certificate_FUTURE_Recognised.pdf" target="_blank">[certificate]</a> <br>
 
 ### Others
 IEEE Systems, Man, and Cybernetics Society (SMC) Student Branch Chapter at Zhejiang University (Chair) <a href="https://ZiqiWang0312.github.io/bio/files/Zhejiang University,SMC28.pdf" target="_blank">[PDF]</a> <br>
