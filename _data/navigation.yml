@@ -11,8 +11,8 @@ main:
   - title: "Publications"
     url: /publications/
 
-  #- title: "Featured Pulications"
-  #  url: /feapub/
+  - title: "Featured Publications"
+    url: /feapub/
 
   - title: "Talks"
     url: /talks/  

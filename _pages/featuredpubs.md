@@ -5,97 +5,351 @@ permalink: /feapub/
 author_profile: true
 ---
 
-<li style="margin-bottom: 2rem; line-height: 1.8;">
-  <strong>Online Workload Scheduling for Social Welfare Maximization in the Computing Continuum</strong><br/>
-  <em>IEEE Transactions on Services Computing (TSC), 2025</em>
-  <a href="https://ZiqiWang0312.github.io/bio/files/TSC.pdf" target="_blank" style="margin-left:8px;">[PDF]</a>
-  
-  <div style="font-size:0.95em; margin-top:0.3rem;">
-    Citation: H. Zhao Z. Wang, G. Cheng, W. Qian, P. Chen, J. Yin, S. Dustdar, and S. Deng, 
-    "Online Workload Scheduling for Social Welfare Maximization in the Computing Continuum," 
-    IEEE Transactions on Services Computing, vol. 18, no. 4, pp. 2267-2280, Jul. 2025, doi: 10.1109/TSC.2025.3570845.
-  </div>
+## Journals (selected)
 
-  <p style="text-align: justify; font-weight: bold; margin-top: 0.8rem; margin-bottom: 1rem;"> 
-    Computing ecosystems are shifting toward a computing continuum paradigm designed to handle the diverse 
-    and dynamic nature of computing resources spread across various locations. It demonstrates significant 
-    potential in providing high-bandwidth and low-latency services for users. However, as a large number of 
-    users request services from distributed computing continuum systems, it is critical to schedule numerous 
-    delay-sensitive, fractional workloads and maximum parallelism-bound jobs to appropriate backend resources, 
-    e.g., cloud container instances. In addition, the scheduling strategy also needs to maximize the social 
-    welfare that incorporates the utilities of jobs and the revenue of service providers. However, current 
-    workload scheduling algorithms are based on simple heuristics and lack performance guarantees. Due to the 
-    unpredictability of online requests, the distribution of requests should not be assumed. Therefore, 
-    designing an online workload scheduling strategy without assumptions on request distributions is essential 
-    for balancing the online workload. This work first establishes a spatiotemporal integrated resource pool 
-    to reflect the computational resources provided by distributed computing continuum systems. Then, several 
-    pseudo-social welfare functions and marginal cost functions are constructed, where the latter is used to 
-    estimate the marginal cost of provisioning services to each newly arrived job based on the current resource 
-    surplus. We propose an online workload scheduling strategy named \( \texttt{OnSocMax} \) to solve the above 
-    problems. It operates by following the solutions to several convex pseudo-social welfare maximization 
-    problems and is proven to be \( \alpha \)-competitive for some \( \alpha \) with a value of at least 2. 
-    The evaluation results demonstrate that \( \texttt{OnSocMax} \) outperforms several benchmark strategies in 
-    maximizing social welfare.
+<ul>
+  <li style="margin-bottom: 2rem; line-height: 1.8;">
+    <strong>Dual-GNN-driven Cooperative Optimization for Makespan-minimized and Large-scale 3C Dynamic Job-shop Scheduling</strong><br/>
+    <span style="font-size:0.95em;">Authors: Jing Bi, Chen Wang, Ziqi Wang, Junqi Zhang, Haitao Yuan, Jia Zhang, Rajkumar Buyya</span><br/>
+    <em>IEEE Transactions on Automation Science and Engineering (TASE), 2026</em>
+    <a href="https://ZiqiWang0312.github.io/bio/files/jobshop.pdf" target="_blank" style="margin-left:8px;">[PDF]</a>
+
+    <p style="text-align: justify; font-weight: bold; margin-top: 0.8rem; margin-bottom: 1rem;">
+      This work combines dual graph neural networks with cooperative optimization to reduce makespan in large-scale dynamic 3C job-shop scheduling.
+    </p>
+
+    <!--
+    <p style="text-align: justify; font-weight: bold; margin-top: 0.8rem; margin-bottom: 1rem;">
+      Full abstract can be placed here if needed.
+    </p>
+    -->
+
+    <!--
     <div style="text-align:center; margin-top: 0.5rem;">
-        <img src="https://ZiqiWang0312.github.io/bio/files/OnSocMax_framework.svg" alt="Framework Overview" width="600" style="margin:0;"/>
+      <img src="" alt="Framework Overview" width="600" style="margin:0;"/>
     </div>
-  </p>
-</li>
+    -->
+  </li>
 
+  <li style="margin-bottom: 2rem; line-height: 1.8;">
+    <strong>Online Workload Scheduling for Social Welfare Maximization in the Computing Continuum</strong><br/>
+    <span style="font-size:0.95em;">Authors: Hailiang Zhao, Ziqi Wang, Guanjie Cheng, Wenzhuo Qian, Peng Chen, Jianwei Yin, Schahram Dustdar, Shuiguang Deng</span><br/>
+    <em>IEEE Transactions on Services Computing (TSC), 2025</em>
+    <a href="https://ZiqiWang0312.github.io/bio/files/TSC.pdf" target="_blank" style="margin-left:8px;">[PDF]</a>
 
+    <p style="text-align: justify; font-weight: bold; margin-top: 0.8rem; margin-bottom: 1rem;">
+      This work designs online workload scheduling for computing-continuum systems to improve social welfare under uncertain request arrivals.
+    </p>
 
+    <!--
+    <p style="text-align: justify; font-weight: bold; margin-top: 0.8rem; margin-bottom: 1rem;">
+      Full abstract can be placed here if needed.
+    </p>
+    -->
 
-<li style="margin-bottom: 2rem; line-height: 1.8;">
-  <strong>Self-adaptive Teaching-learning-based Optimizer with Improved RBF and Sparse Autoencoder for Complex Optimization Problems</strong><br/>
-  <em>2023 IEEE International Conference on Robotics and Automation (ICRA), London, United Kingdom</em>
-  <a href="https://ZiqiWang0312.github.io/bio/files/ICRA2.pdf" target="_blank" style="margin-left:8px;">[PDF]</a>
-  
-  <div style="font-size:0.95em; margin-top:0.3rem;">
-    Citation: J. Bi, Z. Wang, H. Yuan, J. Qiao, J. Zhang and M. Zhou, "Self-adaptive Teaching-learning-based Optimizer with Improved RBF and Sparse Autoencoder for Complex Optimization Problems," 2023 IEEE International Conference on Robotics and Automation (ICRA), London, United Kingdom, 2023, pp. 7966-7972.
-  </div>
-
-  <p style="text-align: justify; font-weight: bold; margin-top: 0.8rem; margin-bottom: 1rem;"> 
-  Evolutionary algorithms are commonly used to solve many complex optimization problems in such fields as robotics, industrial automation, and complex system design. Yet, their performance is limited when dealing with high-dimensional complex problems because they often require enormous computational resources to yield desired solutions, and they may easily trap into local optima. To solve this problem, this work proposes a Self-adaptive Teaching-learning-based Optimizer with an improved Radial basis function model and a sparse Autoencoder (STORA). In STORA, a Self-adaptive Teaching-learning-based Optimizer is designed to dynamically adjust parameters for balancing exploration and exploitation during its solution process. Then, a sparse autoencoder (SAE) is adopted as a dimension reduction method to compress search space into lower-dimensional one for more efficiently guiding population to converge towards global optima. Besides, an Improved Radial Basis Function model (IRBF) is designed as a surrogate model to balance training time and prediction accuracy. It is adopted to save computational resources for improving overall performance. In addition, a dynamic population allocation strategy is adopted to well integrate SAE and IRBF in STORA. We evaluate it by comparing it with several state-of-the-art algorithms through six benchmark functions. We further test it by applying it to solve a real-world computational offloading problem.
+    <!--
     <div style="text-align:center; margin-top: 0.5rem;">
-        <img src="https://ZiqiWang0312.github.io/bio/files/STORA_framework.svg" alt="Framework Overview" width="600" style="margin:0;"/>
+      <img src="https://ZiqiWang0312.github.io/bio/files/OnSocMax_framework.svg" alt="Framework Overview" width="600" style="margin:0;"/>
     </div>
-  </p>
-</li>
+    -->
+  </li>
 
+  <li style="margin-bottom: 2rem; line-height: 1.8;">
+    <strong>Long-Term Water Quality Prediction With Transformer-Based Spatial-Temporal Graph Fusion</strong><br/>
+    <span style="font-size:0.95em;">Authors: Jing Bi, Ziqi Wang, Haitao Yuan, Xiangxi Wu, Renren Wu, Jia Zhang, MengChu Zhou</span><br/>
+    <em>IEEE Transactions on Automation Science and Engineering (TASE), 2025</em>
+    <a href="https://ZiqiWang0312.github.io/bio/files/TASE.pdf" target="_blank" style="margin-left:8px;">[PDF]</a>
 
-<li style="margin-bottom: 2rem; line-height: 1.8;">
-  <strong>Long-Term Water Quality Prediction With Transformer-Based Spatial-Temporal Graph Fusion</strong><br/>
-  <em>IEEE Transactions on Automation Science and Engineering</em>
-  <a href="https://ZiqiWang0312.github.io/bio/files/TASE.pdf" target="_blank" style="margin-left:8px;">[PDF]</a>
-  
-  <div style="font-size:0.95em; margin-top:0.3rem;">
-    Citation: J. Bi, Z. Wang, H. Yuan, X. Wu, R. Wu, J. Zhang and M. Zhou, "Long-Term Water Quality Prediction With Transformer-Based Spatial-Temporal Graph Fusion," IEEE Transactions on Automation Science and Engineering, vol. 22, pp. 11392-11404, Jan. 2025.
-  </div>
+    <p style="text-align: justify; font-weight: bold; margin-top: 0.8rem; margin-bottom: 1rem;">
+      This work uses spatial-temporal graph fusion with transformer modeling to improve long-term water quality prediction across monitoring stations.
+    </p>
 
-  <p style="text-align: justify; font-weight: bold; margin-top: 0.8rem; margin-bottom: 1rem;"> 
-  Over the past decades of rapid development, the global water pollution problem became prominent. Accurate water quality prediction can detect the trend and anomaly of water quality changes in advance, thereby taking timely measures to avoid water quality problems. Traditional statistical methods for water quality prediction tend to fail to capture the complex relationship among multiple water quality variables. Deep learning models face a challenge to capture both temporal dependence and spatial correlation of the water quality series data. To solve the above problems, this work proposes an adaptive and dynamic graph fusion water quality prediction model based on a spatiotemporal attention mechanism named Spatial-Temporal Graph Fusion Transformer (STGFT). It integrates a spatial attention encoder, a temporal attention encoder, an adaptive dynamic adjacency matrix generator, and a multi-graph fusion layer. Among them, the first two are adopted to capture the spatial correlations and temporal characteristics among different water quality monitoring stations, respectively. The generator can produce adaptive and dynamic adjacency matrices to reflect potential spatial relationships in a river network. Experimental results with real-life water quality datasets reveal that the prediction accuracy of STGFT outperforms the existing state-of-the-art models.
+    <!--
+    <p style="text-align: justify; font-weight: bold; margin-top: 0.8rem; margin-bottom: 1rem;">
+      Full abstract can be placed here if needed.
+    </p>
+    -->
+
+    <!--
     <div style="text-align:center; margin-top: 0.5rem;">
-        <img src="https://ZiqiWang0312.github.io/bio/files/STGFT_framework.svg" alt="Framework Overview" width="600" style="margin:0;"/>
+      <img src="https://ZiqiWang0312.github.io/bio/files/STGFT_framework.svg" alt="Framework Overview" width="600" style="margin:0;"/>
     </div>
-  </p>
-</li>
+    -->
+  </li>
 
+  <li style="margin-bottom: 2rem; line-height: 1.8;">
+    <strong>STMF: A Spatio-Temporal Multimodal Fusion Model for Long-term Water Quality Forecasting</strong><br/>
+    <span style="font-size:0.95em;">Authors: Jing Bi, Xiangxi Wu, Haitao Yuan, Ziqi Wang, Damien Wei, Renren Wu, Jia Zhang, Junfei Qiao, Rajkumar Buyya</span><br/>
+    <em>IEEE Internet of Things Journal (IOTJ), 2025</em>
+    <a href="https://ZiqiWang0312.github.io/bio/files/IOTSTMF.pdf" target="_blank" style="margin-left:8px;">[PDF]</a>
 
+    <p style="text-align: justify; font-weight: bold; margin-top: 0.8rem; margin-bottom: 1rem;">
+      This work develops a spatio-temporal multimodal fusion model for more reliable long-term water quality forecasting.
+    </p>
 
+    <!--
+    <p style="text-align: justify; font-weight: bold; margin-top: 0.8rem; margin-bottom: 1rem;">
+      Full abstract can be placed here if needed.
+    </p>
+    -->
 
-<li style="margin-bottom: 2rem; line-height: 1.8;">
-  <strong>Cost-Minimized Computation Offloading and User Association in Hybrid Cloud and Edge Computing</strong><br/>
-  <em>IEEE Internet of Things Journal</em>
-  <a href="https://ZiqiWang0312.github.io/bio/files/IOTLSAG.pdf" target="_blank" style="margin-left:8px;">[PDF]</a>
-  
-  <div style="font-size:0.95em; margin-top:0.3rem;">
-    Citation: J. Bi, Z. Wang, H. Yuan, J. Zhang and M. Zhou, "Cost-Minimized Computation Offloading and User Association in Hybrid Cloud and Edge Computing," IEEE Internet of Things Journal, vol. 11, no. 9, pp. 16672-16683, May 2024.
-  </div>
-
-  <p style="text-align: justify; font-weight: bold; margin-top: 0.8rem; margin-bottom: 1rem;"> 
-  Smart mobile devices (SMDs) are integral for running advanced applications that demand significant computing resources and quick response time, e.g., immersive gaming and advanced image editing. However, SMDs often face constraints in computational capacity and battery duration, restricting their ability to process these tasks instantaneously. Cloud computing can circumvent these limitations by computation offloading, but cloud data centers (CDCs) are often deployed at long distances from users, which results in longer computational latency. To address the latency issue, the incorporation of small base stations (SBSs) in the vicinity of the user provides services with high bandwidth and low latency. The primary challenge lies in balancing the economics of the system consisting of different SMDs, SBSs, and a CDC, i.e., minimizing cost while still meeting the latency requirements of applications. In this work, a cost-minimized computation offloading framework is formulated and solved by a two-stage optimization algorithm named Lévy flight and simulated annealing-based grey wolf optimizer (LSAG). The optimal edge selection strategy is defined in the first stage for dealing with the case of several available SBSs. The second stage coordinates task scheduling and optimizes the allocation of resources among SMDs, SBSs, and CDC. LSAG integrates the extended search property of Lévy flight and the individual selection strategy of simulated annealing in the grey wolf optimizer, which reduces the risk of falling into local optima and finds the global optimum. Experimental results of executing real-life tasks show that LSAG outperforms its state-of-the-art peers in terms of cost and speed of convergence.
+    <!--
     <div style="text-align:center; margin-top: 0.5rem;">
-        <img src="https://ZiqiWang0312.github.io/bio/files/LSAG_framework.svg" alt="Framework Overview" width="600" style="margin:0;"/>
+      <img src="" alt="Framework Overview" width="600" style="margin:0;"/>
     </div>
-  </p>
-</li>
+    -->
+  </li>
+
+  <li style="margin-bottom: 2rem; line-height: 1.8;">
+    <strong>Ontology-Based Semantic Reasoning for Multisource Heterogeneous Industrial Devices Using OPC UA</strong><br/>
+    <span style="font-size:0.95em;">Authors: Jing Bi, Rina Wu, Haitao Yuan, Ziqi Wang, Jia Zhang, MengChu Zhou</span><br/>
+    <em>IEEE Internet of Things Journal (IOTJ), 2025</em>
+    <a href="https://ZiqiWang0312.github.io/bio/files/IOTOPC.pdf" target="_blank" style="margin-left:8px;">[PDF]</a>
+
+    <p style="text-align: justify; font-weight: bold; margin-top: 0.8rem; margin-bottom: 1rem;">
+      This work uses ontology-based reasoning and OPC UA to support semantic integration across heterogeneous industrial devices.
+    </p>
+
+    <!--
+    <p style="text-align: justify; font-weight: bold; margin-top: 0.8rem; margin-bottom: 1rem;">
+      Full abstract can be placed here if needed.
+    </p>
+    -->
+
+    <!--
+    <div style="text-align:center; margin-top: 0.5rem;">
+      <img src="" alt="Framework Overview" width="600" style="margin:0;"/>
+    </div>
+    -->
+  </li>
+
+  <li style="margin-bottom: 2rem; line-height: 1.8;">
+    <strong>Hybrid Water Quality Prediction With Multimodal Low-Rank Fusion and Localized Attention</strong><br/>
+    <span style="font-size:0.95em;">Authors: Jing Bi, Yibo Li, Haitao Yuan, Mengyuan Wang, Ziqi Wang, Jia Zhang, MengChu Zhou</span><br/>
+    <em>IEEE Internet of Things Journal (IOTJ), 2025</em>
+    <a href="https://ZiqiWang0312.github.io/bio/files/IOTyibo.pdf" target="_blank" style="margin-left:8px;">[PDF]</a>
+
+    <p style="text-align: justify; font-weight: bold; margin-top: 0.8rem; margin-bottom: 1rem;">
+      This work improves hybrid water quality prediction through multimodal low-rank fusion and localized attention mechanisms.
+    </p>
+
+    <!--
+    <p style="text-align: justify; font-weight: bold; margin-top: 0.8rem; margin-bottom: 1rem;">
+      Full abstract can be placed here if needed.
+    </p>
+    -->
+
+    <!--
+    <div style="text-align:center; margin-top: 0.5rem;">
+      <img src="" alt="Framework Overview" width="600" style="margin:0;"/>
+    </div>
+    -->
+  </li>
+
+  <li style="margin-bottom: 2rem; line-height: 1.8;">
+    <strong>Cost-Minimized Computation Offloading and User Association in Hybrid Cloud and Edge Computing</strong><br/>
+    <span style="font-size:0.95em;">Authors: Jing Bi, Ziqi Wang, Haitao Yuan, Jia Zhang, MengChu Zhou</span><br/>
+    <em>IEEE Internet of Things Journal (IOTJ), 2024</em>
+    <a href="https://ZiqiWang0312.github.io/bio/files/IOTLSAG.pdf" target="_blank" style="margin-left:8px;">[PDF]</a>
+
+    <p style="text-align: justify; font-weight: bold; margin-top: 0.8rem; margin-bottom: 1rem;">
+      This work optimizes user association and computation offloading decisions to minimize cost in hybrid cloud-edge systems.
+    </p>
+
+    <!--
+    <p style="text-align: justify; font-weight: bold; margin-top: 0.8rem; margin-bottom: 1rem;">
+      Full abstract can be placed here if needed.
+    </p>
+    -->
+
+    <!--
+    <div style="text-align:center; margin-top: 0.5rem;">
+      <img src="https://ZiqiWang0312.github.io/bio/files/LSAG_framework.svg" alt="Framework Overview" width="600" style="margin:0;"/>
+    </div>
+    -->
+  </li>
+
+  <li style="margin-bottom: 2rem; line-height: 1.8;">
+    <strong>Large AI Models and Their Applications: Classification, Limitations, and Potential Solutions</strong><br/>
+    <span style="font-size:0.95em;">Authors: Jing Bi, Ziqi Wang, Haitao Yuan, Xiankun Shi, Ziyue Wang, Jia Zhang, MengChu Zhou, Rajkumar Buyya</span><br/>
+    <em>Software: Practice and Experience (SPE), 2024</em>
+    <a href="https://ZiqiWang0312.github.io/bio/files/SPE.pdf" target="_blank" style="margin-left:8px;">[PDF]</a>
+
+    <p style="text-align: justify; font-weight: bold; margin-top: 0.8rem; margin-bottom: 1rem;">
+      This work surveys large AI models by classifying their applications, limitations, and possible technical solutions.
+    </p>
+
+    <!--
+    <p style="text-align: justify; font-weight: bold; margin-top: 0.8rem; margin-bottom: 1rem;">
+      Full abstract can be placed here if needed.
+    </p>
+    -->
+
+    <!--
+    <div style="text-align:center; margin-top: 0.5rem;">
+      <img src="" alt="Framework Overview" width="600" style="margin:0;"/>
+    </div>
+    -->
+  </li>
+
+  <li style="margin-bottom: 2rem; line-height: 1.8;">
+    <strong>Partial and cost-minimized computation offloading in hybrid edge and cloud systems</strong><br/>
+    <span style="font-size:0.95em;">Authors: Haitao Yuan, Jing Bi, Ziqi Wang, Jinhong Yang, Jia Zhang</span><br/>
+    <em>Expert Systems with Applications (ESWA), 2024</em>
+    <a href="https://ZiqiWang0312.github.io/bio/files/ESWA.pdf" target="_blank" style="margin-left:8px;">[PDF]</a>
+
+    <p style="text-align: justify; font-weight: bold; margin-top: 0.8rem; margin-bottom: 1rem;">
+      This work studies partial computation offloading strategies that reduce cost in hybrid edge-cloud computing systems.
+    </p>
+
+    <!--
+    <p style="text-align: justify; font-weight: bold; margin-top: 0.8rem; margin-bottom: 1rem;">
+      Full abstract can be placed here if needed.
+    </p>
+    -->
+
+    <!--
+    <div style="text-align:center; margin-top: 0.5rem;">
+      <img src="" alt="Framework Overview" width="600" style="margin:0;"/>
+    </div>
+    -->
+  </li>
+
+  <li style="margin-bottom: 2rem; line-height: 1.8;">
+    <strong>Hybrid Water Quality Prediction based on Attention combined with Frequency Enhancement and Multi-Seasonal Decomposition</strong><br/>
+    <span style="font-size:0.95em;">Authors: Yibo Li, Ziqi Wang, Haitao Yuan, Jing Bi</span><br/>
+    <em>Journal of Water Process Engineering (JWPE), 2025</em>
+    <a href="https://ZiqiWang0312.github.io/bio/files/JWPE.pdf" target="_blank" style="margin-left:8px;">[PDF]</a>
+
+    <p style="text-align: justify; font-weight: bold; margin-top: 0.8rem; margin-bottom: 1rem;">
+      This work combines attention, frequency enhancement, and multi-seasonal decomposition for hybrid water quality prediction.
+    </p>
+
+    <!--
+    <p style="text-align: justify; font-weight: bold; margin-top: 0.8rem; margin-bottom: 1rem;">
+      Full abstract can be placed here if needed.
+    </p>
+    -->
+
+    <!--
+    <div style="text-align:center; margin-top: 0.5rem;">
+      <img src="" alt="Framework Overview" width="600" style="margin:0;"/>
+    </div>
+    -->
+  </li>
+
+  <li style="margin-bottom: 2rem; line-height: 1.8;">
+    <strong>Self-adaptive teaching-learning-based optimizer with improved RBF and sparse autoencoder for high-dimensional problems</strong><br/>
+    <span style="font-size:0.95em;">Authors: Jing Bi, Ziqi Wang, Haitao Yuan, Jia Zhang, MengChu Zhou</span><br/>
+    <em>Information Sciences (INS), 2023</em>
+    <a href="https://ZiqiWang0312.github.io/bio/files/INS.pdf" target="_blank" style="margin-left:8px;">[PDF]</a>
+
+    <p style="text-align: justify; font-weight: bold; margin-top: 0.8rem; margin-bottom: 1rem;">
+      This work integrates adaptive teaching-learning optimization, surrogate modeling, and sparse autoencoding for high-dimensional optimization problems.
+    </p>
+
+    <!--
+    <p style="text-align: justify; font-weight: bold; margin-top: 0.8rem; margin-bottom: 1rem;">
+      Full abstract can be placed here if needed.
+    </p>
+    -->
+
+    <!--
+    <div style="text-align:center; margin-top: 0.5rem;">
+      <img src="" alt="Framework Overview" width="600" style="margin:0;"/>
+    </div>
+    -->
+  </li>
+
+  <li style="margin-bottom: 2rem; line-height: 1.8;">
+    <strong>An Enhanced Hybrid Deep Neural Network Method for Adjusted Industrial Time Series Prediction with Variable Operating States</strong><br/>
+    <span style="font-size:0.95em;">Authors: Meifang Zhang, Jing Bi, Haitao Yuan, Ziqi Wang, Jia Zhang, Rajkumar Buyya</span><br/>
+    <em>Expert Systems with Applications (ESWA), 2025</em>
+    <a href="https://ZiqiWang0312.github.io/bio/files/ESWA2.pdf" target="_blank" style="margin-left:8px;">[PDF]</a>
+
+    <p style="text-align: justify; font-weight: bold; margin-top: 0.8rem; margin-bottom: 1rem;">
+      This work proposes an enhanced hybrid deep neural network for industrial time series prediction under changing operating states.
+    </p>
+
+    <!--
+    <p style="text-align: justify; font-weight: bold; margin-top: 0.8rem; margin-bottom: 1rem;">
+      Full abstract can be placed here if needed.
+    </p>
+    -->
+
+    <!--
+    <div style="text-align:center; margin-top: 0.5rem;">
+      <img src="" alt="Framework Overview" width="600" style="margin:0;"/>
+    </div>
+    -->
+  </li>
+
+  <li style="margin-bottom: 2rem; line-height: 1.8;">
+    <strong>Multi-Perspective and Energy-Efficient Deep Learning in Edge Computing</strong><br/>
+    <span style="font-size:0.95em;">Authors: Haitao Yuan, Jing Bi, Ziqi Wang, Jia Zhang, MengChu Zhou, Rajkumar Buyya</span><br/>
+    <em>IEEE Internet of Things Journal (IOTJ), 2025</em>
+    <a href="https://ZiqiWang0312.github.io/bio/files/IOT-survey.pdf" target="_blank" style="margin-left:8px;">[PDF]</a>
+
+    <p style="text-align: justify; font-weight: bold; margin-top: 0.8rem; margin-bottom: 1rem;">
+      This work reviews multi-perspective and energy-efficient deep learning methods for edge computing environments.
+    </p>
+
+    <!--
+    <p style="text-align: justify; font-weight: bold; margin-top: 0.8rem; margin-bottom: 1rem;">
+      Full abstract can be placed here if needed.
+    </p>
+    -->
+
+    <!--
+    <div style="text-align:center; margin-top: 0.5rem;">
+      <img src="" alt="Framework Overview" width="600" style="margin:0;"/>
+    </div>
+    -->
+  </li>
+
+  <li style="margin-bottom: 2rem; line-height: 1.8;">
+    <strong>Assistive Assessment of Neurological Dysfunction via Eye Movement Patterns and Ocular Biometrics</strong><br/>
+    <span style="font-size:0.95em;">Authors: Ziqi Wang, Jing Bi, Xiaomeng Zhao, Zhipeng Zheng, Jinglei Cui, Rong Cui, Junqi Zhang, Yuanchen Tang, Jiantao Liang, Kai Zhou, Jia Zhang</span><br/>
+    <em>Artificial Intelligence Surgery (AIS), 2025</em>
+    <a href="https://ZiqiWang0312.github.io/bio/files/AIS.pdf" target="_blank" style="margin-left:8px;">[PDF]</a>
+
+    <p style="text-align: justify; font-weight: bold; margin-top: 0.8rem; margin-bottom: 1rem;">
+      This work explores eye movement patterns and ocular biometrics for assistive assessment of neurological dysfunction.
+    </p>
+
+    <!--
+    <p style="text-align: justify; font-weight: bold; margin-top: 0.8rem; margin-bottom: 1rem;">
+      Full abstract can be placed here if needed.
+    </p>
+    -->
+
+    <!--
+    <div style="text-align:center; margin-top: 0.5rem;">
+      <img src="" alt="Framework Overview" width="600" style="margin:0;"/>
+    </div>
+    -->
+  </li>
+
+  <li style="margin-bottom: 2rem; line-height: 1.8;">
+    <strong>FedCAD: Federated Learning with Clustering, Adaptive Selection, and Delayed Aggregation for Heterogeneous IoT Environments</strong><br/>
+    <span style="font-size:0.95em;">Authors: Tian Liu, Zhiwei Ling, Ziqi Wang, Jiahui Zhai, Chenggang Shan, Zhen Yang, Bin Yang</span><br/>
+    <em>IEEE Internet of Things Journal (IOTJ), 2026</em>
+    <a href="https://ZiqiWang0312.github.io/bio/files/IOT-FEDCAD.pdf" target="_blank" style="margin-left:8px;">[PDF]</a>
+
+    <p style="text-align: justify; font-weight: bold; margin-top: 0.8rem; margin-bottom: 1rem;">
+      This work improves federated learning in heterogeneous IoT environments through clustering, adaptive selection, and delayed aggregation.
+    </p>
+
+    <!--
+    <p style="text-align: justify; font-weight: bold; margin-top: 0.8rem; margin-bottom: 1rem;">
+      Full abstract can be placed here if needed.
+    </p>
+    -->
+
+    <!--
+    <div style="text-align:center; margin-top: 0.5rem;">
+      <img src="" alt="Framework Overview" width="600" style="margin:0;"/>
+    </div>
+    -->
+  </li>
+</ul>
