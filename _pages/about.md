@@ -44,7 +44,8 @@ Top 100 Graduates of Beijing University of Technology
 <a href="https://ZiqiWang0312.github.io/bio/files/Service.pdf" target="_blank">[certificate]</a> <br>
 2025 Data Element Empowering New Industrialization Competition, Second Prize (2025 数据要素赋能新型工业化大赛决赛二等奖)
 <a href="https://ZiqiWang0312.github.io/bio/files/industrycom.pdf" target="_blank">[certificate]</a> <br>
-
+2026年度“国产自主工业仿真软件”征集-优秀国产自主工业仿真软件
+<a href="https://ZiqiWang0312.github.io/bio/files/industry software.pdf" target="_blank">[certificate]</a> <br>
 
 Skill Certificate
 ======
