@@ -8,7 +8,10 @@ redirect_from:
 ---
 
 
-I am currently pursuing the Ph.D. degree with the School of Software Technology, Zhejiang University, China. Before that, I received the B.S. degree in Internet of Things in 2022 and the M.S. degree in Software Engineering in 2025, both from Beijing University of Technology, China. My research interests include mobile edge computing, task scheduling, intelligent optimization algorithms, and deep learning. I received the Best Paper Award in 2024 ICAIS & ISAS [certificate](https://ZiqiWang0312.github.io/bio/files/ISAScer.pdf) and the Best Application Paper Award in the 21st IEEE ICNSC [certificate](https://ZiqiWang0312.github.io/bio/files/ICNSCcer.pdf).
+I am currently pursuing the Ph.D. degree with the School of Software Technology, Zhejiang University, China. Before that, I received the B.S. degree in Internet of Things in 2022 and the M.S. degree in Software Engineering in 2025, both from Beijing University of Technology, China. I received the Best Paper Award in 2024 ICAIS & ISAS [certificate](https://ZiqiWang0312.github.io/bio/files/ISAScer.pdf) and the Best Application Paper Award in the 21st IEEE ICNSC [certificate](https://ZiqiWang0312.github.io/bio/files/ICNSCcer.pdf).
+
+My research interests mainly focus on multimodal data mining and deep learning, aiming to learn predictive, interpretable, and decision-supportive representations from complex heterogeneous data. My work is primarily driven by two application domains. The first lies in the **Industrial Internet and human–cyber–physical complex systems**, where I study multi-source industrial data modeling, edge–cloud collaborative computing, task scheduling, and intelligent optimization to enhance system perception, prediction, and collaborative decision-making. The second focuses on **medical biomarker discovery**, where I explore deep learning methods for integrating multimodal signals such as temporal, physiological, imaging, and behavioral data to support disease assessment, risk prediction, and clinical decision-making.
+
 
 Education
 ======
@@ -72,6 +75,7 @@ Journal of Environmental Management  <a href="https://ZiqiWang0312.github.io/bio
 IEEE Transactions on Intelligent Transportation Systems <br>
 Expert Systems with Applications <a href="https://ZiqiWang0312.github.io/bio/files/Certificate_ESWA_Recognised.pdf" target="_blank">[certificate]</a> <br>
 Future Generation Computer Systems <a href="https://ZiqiWang0312.github.io/bio/files/Certificate_FUTURE_Recognised.pdf" target="_blank">[certificate]</a> <br>
+Journal of Radiation Research and Applied Sciences <br>
 
 ### Others
 IEEE Systems, Man, and Cybernetics Society (SMC) Student Branch Chapter at Zhejiang University (Chair) <a href="https://ZiqiWang0312.github.io/bio/files/Zhejiang University,SMC28.pdf" target="_blank">[PDF]</a> <br>
