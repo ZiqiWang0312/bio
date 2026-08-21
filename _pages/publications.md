@@ -10,6 +10,12 @@ author_profile: true
 <ul>
   
   <li>
+    <strong>Hierarchical Biomarker Modeling for Facial Paralysis Assessment and Rehabilitation Monitoring</strong><br/>
+    <em>IEEE Transactions on Neural Systems and Rehabilitation Engineering (TNSRE), 2026</em>
+    <a href="https://ZiqiWang0312.github.io/bio/files/tnsre.pdf" target="_blank">[PDF]</a>
+  </li>
+
+  <li>
     <strong>Dual-GNN-driven Cooperative Optimization for Makespan-minimized and Large-scale 3C Dynamic Job-shop Scheduling</strong><br/>
     <em>IEEE Transactions on Automation Science and Engineering (TASE), 2026</em>
     <a href="https://ZiqiWang0312.github.io/bio/files/jobshop.pdf" target="_blank">[PDF]</a>
