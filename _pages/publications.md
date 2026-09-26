@@ -10,6 +10,12 @@ author_profile: true
 <ul>
   
   <li>
+    <strong>Event-Consistent Dual-Graph Mixture-of-Experts for Dynamic Flexible Job Shop Scheduling Under Multiple Disturbances</strong><br/>
+    <em>IEEE Transactions on Industrial Informatics (TII), 2026</em>
+    <a href="https://ZiqiWang0312.github.io/bio/files/tii.pdf" target="_blank">[PDF]</a>
+  </li>
+
+  <li>
     <strong>Hierarchical Biomarker Modeling for Facial Paralysis Assessment and Rehabilitation Monitoring</strong><br/>
     <em>IEEE Transactions on Neural Systems and Rehabilitation Engineering (TNSRE), 2026</em>
     <a href="https://ZiqiWang0312.github.io/bio/files/tnsre.pdf" target="_blank">[PDF]</a>
@@ -132,6 +138,20 @@ author_profile: true
     <a href="https://ZiqiWang0312.github.io/bio/files/ICRAslid1.pdf" target="_blank">[Slide]</a>
     <a href="https://ZiqiWang0312.github.io/bio/files/ICRApos2.pdf" target="_blank">[Poster]</a>
   </li>
+
+
+  <li>
+    <strong>ARMOR: A Robust Self-Supervised Framework for Root Cause Analysis in Microservices under Missing Modality</strong><br/>
+    <em>The 41st IEEE/ACM International Conference on Automated Software Engineering (ASE 2026)</em>
+    <a href="https://ZiqiWang0312.github.io/bio/files/ase.pdf" target="_blank">[PDF]</a>
+  </li>
+
+  <li>
+    <strong>Nullify: Null-Space Activation Steering for Training-Free LLM Unlearning</strong><br/>
+    <em>The 2026 Conference on Empirical Methods in Natural Language Processing (EMNLP 2026)</em>
+    <a href="https://ZiqiWang0312.github.io/bio/files/emnlp.pdf" target="_blank">[PDF]</a>
+  </li>
+
 
   <li>
     <strong>Chinese MentalBERT: Domain-adaptive pre-training on social media for Chinese mental health text analysis</strong><br/>
