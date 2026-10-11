@@ -113,6 +113,12 @@ author_profile: true
     <a href="https://ZiqiWang0312.github.io/bio/files/IOT-FEDCAD.pdf" target="_blank">[PDF]</a>
   </li>
 
+   <li>
+    <strong> A Priority-Based Global Routing for Multi-Industrial Autonomous Vehicles </strong><br/>
+    <em>IEEE Transactions on Automation Science and Engineering (TASE), 2026</em>
+    <a href="https://ZiqiWang0312.github.io/bio/files/TASE_2026.pdf" target="_blank">[PDF]</a>
+  </li>
+
 </ul>
 
 ## Conferences (selected)
