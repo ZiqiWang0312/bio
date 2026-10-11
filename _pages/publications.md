@@ -116,7 +116,7 @@ author_profile: true
    <li>
     <strong> A Priority-Based Global Routing for Multi-Industrial Autonomous Vehicles </strong><br/>
     <em>IEEE Transactions on Automation Science and Engineering (TASE), 2026</em>
-    <a href="https://ZiqiWang0312.github.io/bio/files/TASE_2026.pdf" target="_blank">[PDF]</a>
+    <a href="https://ZiqiWang0312.github.io/bio/files/T-ASE_2026.pdf" target="_blank">[PDF]</a>
   </li>
 
 </ul>
